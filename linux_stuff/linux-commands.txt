@@ -1,0 +1,5 @@
+Basic commands linux terminal:
+
+apt install -> install stuff
+
+visudo -> edit sudo profiles while in recovery mode
