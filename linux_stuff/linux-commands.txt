@@ -3,3 +3,27 @@ Basic commands linux terminal:
 apt install -> install stuff
 
 visudo -> edit sudo profiles while in recovery mode
+
+whereis -> find stuff
+
+find / -type f -name apache2 -> Find stuff filtering by local, type and name  (nice to use sudo)
+
+ps aux -> full list about processes running
+
+ps aux |grep apache2 -> list of processes using a filter
+
+cat > filename -> Create filename
+
+cat >> filename -> append data to file
+
+touch -> Creates new file
+
+whoami -> checks who is logged in user
+
+apt-cache search xxx -> search for package in repo
+
+ifconfig -> check network information
+
+iwconfig -> check wireless connection if exists
+
+ifconfig eth0 192.168.181.115 -> Change IP Address
