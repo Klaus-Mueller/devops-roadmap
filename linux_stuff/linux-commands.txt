@@ -42,9 +42,9 @@ dig XXXXXX ns -> collect info from server
 
 echo "nameserver8.8.8.8" > /etc/resolv.conf -> Change DNS server
 
-chown user path -> Grants permission to user for a file.
+ user path -> Grants permission to user for a file.
 
 -rw-r--r-- file - read/write - read - read
-drwxr-xr-x - directory - read/write/execute - execute/read - read
+drwxr-xr-x - directory - read/write/execute - execute/read - execute
 
-
+chmod 774 linux_stuff -> Change permission for file/folder
