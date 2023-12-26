@@ -10,7 +10,7 @@ find / -type f -name apache2 -> Find stuff filtering by local, type and name  (n
 
 ps aux -> full list about processes running
 
-ps aux |grep apache2 -> list of processes using a filter
+ps aux |grep apache2 -> list of all processes using a filter
 
 cat > filename -> Create filename
 
@@ -48,3 +48,13 @@ echo "nameserver8.8.8.8" > /etc/resolv.conf -> Change DNS server
 drwxr-xr-x - directory - read/write/execute - execute/read - execute
 
 chmod 774 linux_stuff -> Change permission for file/folder
+
+nice -n -10 /path -> changes process priority
+
+renice 20 PID -> changes process priority using PID
+
+at 7:20am -> Schedules a script to be executed 
+crond -> schedule scrip as well
+
+env -> Check environment variables
+set | grep HISTSIZE -> Check shell variables, shell functions and local variables filtering by name
