@@ -1,0 +1,38 @@
+https://www.linkedin.com/posts/moabukar_systemdesign-coding-interviewtips-activity-7141749557922594816--ikX?utm_source=share&utm_medium=member_desktop
+
+
+🛠️ 𝗗𝗲𝘃𝗢𝗽𝘀 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 🛠️
+
+Want to up your DevOps game? Look no further! Our DevOps Challenges are here to help you learn, practice and master DevOps skills. We've got challenges that cater to all levels, from junior to senior engineers.
+
+Here are some of the past challenges:
+
+⇢ Linux Automation - https://lnkd.in/eY-PWuky
+⇢ SSL Certificates - https://lnkd.in/eX89mT2f
+⇢ Service Roles in K8s - https://lnkd.in/enCA8A47
+⇢ Ansible Basics - https://lnkd.in/eYNb52HY
+⇢ Docker Multi-Stage Build Exercise - https://lnkd.in/edyw-PGR
+⇢ Terraform Modules Exercise - https://lnkd.in/e6YP2PqR
+⇢ Docker Compose Exercise (Advanced Multi-Container)
+⇢ AWS Cloud Security - https://lnkd.in/eeSiBwrV
+⇢ AWS Serverless Challenge - https://lnkd.in/epfHethZ
+⇢ DevOps Troubleshooting Challenge: The Broken CI/CD Pipeline - https://lnkd.in/eJYJyfJU
+⇢ AWS Lambda/Terraform Troubleshooting - https://lnkd.in/eCcaZhGm
+⇢ Terraform Kubernetes Cluster Deployment Challenge
+⇢ Istio with Kubernetes - https://lnkd.in/erTfC_pH
+⇢ OPA with Terraform (Security as Code) - https://lnkd.in/eRe4pAKY
+⇢ Create Immutable AMIs with Packer - https://lnkd.in/e5gH58Jp
+⇢ Secrets Management with HashiCorp Vault 
+⇢ Chaos Engineering - https://lnkd.in/e4k-8VR6
+⇢ Monitoring and Alerting - https://lnkd.in/emF3bkry
+⇢ Traefik with ECS
+⇢ Network Automation with Ansible
+⇢ DevOps Troubleshooting Challenge with Docker Compose
+⇢ Linux Monitoring Automation
+⇢ ArgoCD Deployment Challenge
+
+I ran out of text space, you can find the rest of the challenges here >> https://lnkd.in/ej3-fu_F 
+
+Feel like diving in? Click on any of the challenges above to get started. To get updates on future challenges, make sure to give our repo a ⭐ here: https://lnkd.in/ebPh5kbc
+
+hashtag#systemdesign hashtag#coding hashtag#interviewtips hashtag#devops

@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hello, Klaus"
+
+#testing bash creation in linux

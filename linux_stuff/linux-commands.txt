@@ -47,4 +47,12 @@ chown user path -> Grants permission to user for a file.
 -rw-r--r-- file - read/write - read - read
 drwxr-xr-x - directory - read/write/execute - execute/read - read
 
+tar -cvf BashScripts.tar  MySQLscanner.sh NameColorScript.sh newBash1 -> Create a compressed file (tar) cvf = create,verbose,file
 
+tar -xf BashScripts.tar -> extract files in folder
+
+gzip BashScripts.tar  -> Compress the tar in gzip.
+
+gunzip BashScripts.tar.gz  -> Decrompress file
+
+dd if=/dev/sdb of=/root/flashcopy -> copy bit by bit of a storage device
