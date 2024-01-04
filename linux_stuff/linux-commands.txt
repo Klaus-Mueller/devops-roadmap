@@ -86,3 +86,5 @@ modinfo bluetooth -> show more info about the selected module.
 modprobe -a <module_name> -> Adds new module
 
 modprobe -r <module_name> -> Removes a module
+
+update-rc.d postgresql defaults -> add service (postgresql in this case) to be executed in linux start up
