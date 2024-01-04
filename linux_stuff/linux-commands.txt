@@ -44,6 +44,8 @@ echo "nameserver8.8.8.8" > /etc/resolv.conf -> Change DNS server
 
 chown user path -> Grants permission to user for a file.
 
+chmod 774 file_name -> Grants a permission level.
+
 -rw-r--r-- file - read/write - read - read
 drwxr-xr-x - directory - read/write/execute - execute/read - read
 
@@ -56,3 +58,7 @@ gzip BashScripts.tar  -> Compress the tar in gzip.
 gunzip BashScripts.tar.gz  -> Decrompress file
 
 dd if=/dev/sdb of=/root/flashcopy -> copy bit by bit of a storage device
+
+lsblk -> List block devices
+
+sudo shred -f -n 2 new_file_log_to_shred.log -> Destroy file so it can't be recovered
