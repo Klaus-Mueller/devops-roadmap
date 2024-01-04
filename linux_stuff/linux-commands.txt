@@ -62,3 +62,27 @@ dd if=/dev/sdb of=/root/flashcopy -> copy bit by bit of a storage device
 lsblk -> List block devices
 
 sudo shred -f -n 2 new_file_log_to_shred.log -> Destroy file so it can't be recovered
+
+service apache2 start/stop/restart -> Start, stop or restart a service
+
+service ssh start -> starts SSH service
+
+sudo mysql -u root -p  -> Open Mysql terminal local host
+
+sudo mysql -u root -p -h 127.0.0.1 -> Open Mysql terminal for a ip address
+
+traceroute -> Check hoops of packets between request source and destination
+
+uname - a -> show kernel information
+
+sysctl -> used to tune kernel
+
+sudo sysctl -w net.ipv4.ip_forward=1 -> Changes kernel config to foward packges it recives
+
+lsmod -> show modules installed in linux kernel
+
+modinfo bluetooth -> show more info about the selected module.
+
+modprobe -a <module_name> -> Adds new module
+
+modprobe -r <module_name> -> Removes a module
